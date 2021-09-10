@@ -5,10 +5,17 @@
 [![GitHub forks](https://img.shields.io/github/forks/CPHApt/cpha_examples.svg?style=social&label=Fork)](https://GitHub.com/CPHApt/syslogger-lxc-for-proxmox/network/)
 [![GitHub stars](https://img.shields.io/github/stars/CPHApt/cpha_examples.svg?style=social&label=Star)](https://GitHub.com/CPHApt/syslogger-lxc-for-proxmox/stargazers/)
 
-Syslogger (LXC) para Proxmox. Criado com CentOS como SO base, rsyslog como servidor de syslog (usa a porta 514) e tailon como interface web.
+Syslogger (LXC) para Proxmox. Criado com vários SO base, todos incluem rsyslog como servidor de syslog (usa a porta 514) e tailon como interface web.
 
-[![Build Status](https://drone.jassuncao.work/api/badges/cpha/syslogger-lxc-for-proxmox/status.svg)](https://drone.jassuncao.work/cpha/syslogger-lxc-for-proxmox)
+## CentOS
+`syslogger_centos.tar.gz`
+
+## Ubuntu
 
 
+## Debian
+
+
+<hr>
 Para mais informações visita [https://forum.cpha.pt/t/como-instalar-um-syslogger-em-proxmox](https://forum.cpha.pt/t/como-instalar-um-syslogger-em-proxmox)
 
